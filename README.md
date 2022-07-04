@@ -10,7 +10,6 @@ I'm a computer science graduate and a JavaScript Developer who is passionate abo
 - 🌱 &nbsp; I’m currently learning Blockchain, DeFi, SubGraph
 - 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/osamaKhan99?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/osamakhan99/)
 
 
 
