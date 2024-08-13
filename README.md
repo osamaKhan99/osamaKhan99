@@ -15,7 +15,7 @@ I'm a computer science graduate and a JavaScript Developer who is passionate abo
 
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=osamaKhan99&show_icons=true&theme=tokyonight&hide=contribs,prs&count_private=true)
+[//]: # ![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=osamaKhan99&show_icons=true&theme=tokyonight&hide=contribs,prs&count_private=true)
  <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaKhan99&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,5 +24,5 @@ I'm a computer science graduate and a JavaScript Developer who is passionate abo
 <br>
 
 ### Find me around the web: :earth_asia:
-- [Twitter](https://twitter.com/iOsama99)
+- [Twitter](https://x.com/iOsama99)
 - [Linkedin](https://www.linkedin.com/in/osamakhan99)
