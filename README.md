@@ -14,7 +14,7 @@ I'm a computer science graduate and a JavaScript Developer who is passionate abo
 
 
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
- <br>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaKhan99&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </a>
