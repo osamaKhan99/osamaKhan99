@@ -1,7 +1,7 @@
 ![Osama](./profileBanner.png)
  
 
-I'm a computer science graduate and a JavaScript Developer who is passionate about making a contribution in IT with his skills, working on solving real world problems, and always look forward to share knowledge I have.
+👨‍💻 Computer Science grad & JavaScript Developer passionate about using my skills to make a difference in IT. I love tackling real-world problems and am always eager to share what I know. Let's build something amazing together! 🚀
 
 ### 🧐 More About Me:
 
@@ -18,9 +18,3 @@ I'm a computer science graduate and a JavaScript Developer who is passionate abo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaKhan99&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </a>
-
-<br>
-
-### Find me around the web: :earth_asia:
-- [Twitter](https://x.com/iOsama99)
-- [Linkedin](https://www.linkedin.com/in/osamakhan99)
