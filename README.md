@@ -5,9 +5,9 @@
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on ReactJs, NestJs, Web3.js
-- 🤝 &nbsp; I’m looking to collaborate on Web3.0
-- 🌱 &nbsp; I’m currently learning Blockchain, DeFi, SubGraph
+- 🔭 &nbsp; I’m currently working on ReactJs, NextJS, NestJs, Web3.js
+- 🤝 &nbsp; I’m looking to collaborate on any projects especially if it is related to Web3 or AI
+- 🌱 &nbsp; I’m currently learning AI (Gen AI, LLMS)
 - 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/osamaKhan99?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 
