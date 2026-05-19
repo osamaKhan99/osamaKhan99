@@ -29,4 +29,4 @@ Collaborating on impactful AI, SaaS, and Web3 products.
 
 💬 Ask me about Full Stack Development, Web3, AI Automations, or scalable JavaScript architectures.
 
-📌 Projects: [portfolio]((https://osama-waseem.netlify.app/#projects))
+📌 Projects: [Visit My Portfolio](https://osama-waseem.netlify.app/#projects)
