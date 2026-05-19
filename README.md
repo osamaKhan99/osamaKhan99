@@ -1,20 +1,36 @@
 ![Osama](./profileBanner.png)
  
 
-👨‍💻 Computer Science grad & JavaScript Developer passionate about using my skills to make a difference in IT. I love tackling real-world problems and am always eager to share what I know. Let's build something amazing together! 🚀
+# Hi there 👋, I'm Osama Khan
 
-### 🧐 More About Me:
+🚀 Full Stack JavaScript Engineer with 5+ years of experience building scalable Web2, Web3, and AI-powered applications.
 
-- 🔭 &nbsp; I’m currently working on ReactJs, NextJS, NestJs, Web3.js
-- 🤝 &nbsp; I’m looking to collaborate on any projects especially if it is related to Web3 or AI
-- 🌱 &nbsp; I’m currently learning AI (Gen AI, LLMS)
-- 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/osamaKhan99?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+I specialize in creating high-performance products using modern JavaScript/TypeScript ecosystems — from interactive SaaS platforms and blockchain integrations to AI automations and RAG pipelines.
 
+Currently exploring and contributing to the AI space with LLM applications, n8n automations, and retrieval-based systems.
 
+### 🛠️ What I Work With
 
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaKhan99&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+* Frontend: React.js, Next.js
+* Backend: Node.js, NestJS, GraphQL
+* Databases: MongoDB, PostgreSQL
+* Web3: EVM, Solana, Smart Contracts
+* AI: RAG Pipelines, LLM Integrations, Automations
 
+### 🌱 Current Focus
+
+* AI Engineering & Agentic Workflows
+* Automation Systems with n8n
+* Scalable Full Stack Architectures
+
+### 🤝 Open To
+
+Collaborating on impactful AI, SaaS, and Web3 products.
+
+💬 Ask me about Full Stack Development, Web3, AI Automations, or scalable JavaScript architectures.
+
+📌 Projects: [github.com/osamaKhan99](https://github.com/osamaKhan99?tab=repositories)
+
+<a href="https://github.com/rahul-jha98/github-stats-transparent">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaKhan99&layout=compact&theme=tokyonight" />
 </a>
