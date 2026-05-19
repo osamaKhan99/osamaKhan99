@@ -1,7 +1,7 @@
 ![Osama](./profileBanner.png)
  
 
-# Hi there 👋, I'm Osama Khan
+# Hi there 👋, I'm Osama Waseem
 
 🚀 Full Stack JavaScript Engineer with 5+ years of experience building scalable Web2, Web3, and AI-powered applications.
 
@@ -29,8 +29,4 @@ Collaborating on impactful AI, SaaS, and Web3 products.
 
 💬 Ask me about Full Stack Development, Web3, AI Automations, or scalable JavaScript architectures.
 
-📌 Projects: [github.com/osamaKhan99](https://github.com/osamaKhan99?tab=repositories)
-
-<a href="https://github.com/rahul-jha98/github-stats-transparent">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaKhan99&layout=compact&theme=tokyonight" />
-</a>
+📌 Projects: [portfolio]((https://osama-waseem.netlify.app/#projects))
