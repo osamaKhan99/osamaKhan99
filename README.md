@@ -1,6 +1,3 @@
-![Osama](./profileBanner.png)
- 
-
 # Hi there 👋, I'm Osama Waseem
 
 🚀 Full Stack JavaScript Engineer with 5+ years of experience building scalable Web2, Web3, and AI-powered applications.
